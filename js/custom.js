@@ -113,7 +113,12 @@ $(document).ready(function () {
     $("#payby").payby033();
     //BIT2
     $("#BIT").BIT2();
-
+    //hpcl002
+    $("#HP").hpcl002();
+    //TCS001
+    $("#TCS").TCS001();
+    //LMS000
+    $("#LMS").LMS000();
     //IP
     $("#IP01").IPm();
    
