@@ -119,6 +119,8 @@ $(document).ready(function () {
     $("#TCS").TCS001();
     //LMS000
     $("#LMS").LMS000();
+    //blog00
+    $("#blog").blog00();
     //IP
     $("#IP01").IPm();
    
